@@ -1,0 +1,9 @@
+.vscode/
+build/
+debug/
+imgs/
+output/
+__pycache__/
+
+*.script
+*.sh
